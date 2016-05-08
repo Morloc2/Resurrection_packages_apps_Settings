@@ -55,7 +55,7 @@
 	<string name="rr_mod_version">Versión de Resurrection</string>
 	
 	<!-- Nfc settings -->
-	<string name="nfc_polling_mode_title">NFC polling mode</string>
+	<string name="nfc_polling_mode_title">Modo sondeo NFC</string>
 	<string name="nfc_polling_mode_screen_off">Pantalla apagada</string>
 	<string name="nfc_polling_mode_screen_locked">Pantalla encendida, bloqueada</string>
 	<string name="nfc_polling_mode_screen_unlocked">Pantalla encendida, desbloqueada (por defecto)</string>
@@ -105,9 +105,9 @@
 	
 	<string name="recents_panel_clear_all_category">Opciones de Limpiar Todo</string>
 	<string name="recents_panel_recents_view"> Vista de Recientes</string>
-	<string name="recents_panel_alternative_recents">Recents Alternativos</string>
+	<string name="recents_panel_alternative_recents">Recientes Alternativos</string>
 	<string name="recents_panel_recents_bars">Barras de Recientes</string>
-	<string name="interface_category"> Interface</string>
+	<string name="interface_category"> Interfaz</string>
 	<string name="customization_category">Personalización</string>
 	<string name="gestures_settings">Gestos</string>	
 	
@@ -130,7 +130,7 @@
 	<string name="misc_1">Herramientas del sistema</string>
 	<string name="misc_2">Tweaks</string>
 	<string name="misc_3">Sistema</string>	
-	<string name="misc_4">FingerPrint</string>
+	<string name="misc_4">Huella dactilar</string>
 	
 	
 	<!-- Color picker -->
@@ -146,7 +146,7 @@
 	
 	<!-- RR Extra Info -->
 	<string name="brokenextrainfo">Información Extra</string>
-	<string name="brokenextrainfo_summary">Mostrar información exra de cpu, pantalla, etc</string>
+	<string name="brokenextrainfo_summary">Mostrar información extra de cpu, pantalla, etc</string>
 	
 	<!--Time Contexual Header -->
 	<string name="contexual_header_title">Contexual header</string>
@@ -164,7 +164,7 @@
 	<!-- RR Extra Info -->
 	<string name="rrextrainfo">Información Extra</string>
 	<string name="cancel">Cancelar</string>	
-	<string name="rrextrainfo_summary">Mostrar información exra de cpu, pantalla, etc</string>
+	<string name="rrextrainfo_summary">Mostrar información extra de cpu, pantalla, etc</string>
 	<string name="basicinfo">BASIC INFO</string>
 	<string name="manufacturer">Fabricante</string>
 	<string name="hardwaretype">Hardware</string>
@@ -179,11 +179,11 @@
 	<string name="bogomips">BogoMIPS</string>
 	<string name="abi">ABI</string>
 	<string name="abitwo">ABI2</string>
-	<string name="architecture">Architectura</string>
-	<string name="implementer">Implementer</string>
-	<string name="variant">Variant</string>
-	<string name="part">Part</string>
-	<string name="revision">Revision</string>
+	<string name="architecture">Arquitectura</string>
+	<string name="implementer">Implementar</string>
+	<string name="variant">Variante</string>
+	<string name="part">Parte</string>
+	<string name="revision">Revisión</string>
 	<string name="displayinfo">DISPLAY INFO</string>
 	<string name="diagonal">Diagonal</string>
 	<string name="height">Altura</string>
@@ -229,10 +229,10 @@
 	<string name="recents_rotate_fab">Animate FAB</string>	
 	<string name="recents_rotate_fab_summary">Activar / Desacivar rotación del botón</string>	
 	<string name="recents_fab_vibrate">Vibrar Botón cuando se toque</string>	
-	<string name="recents_fab_vibrate_summary">Enable / Disable Haptic Feedback of Dismissall Button</string>
+	<string name="recents_fab_vibrate_summary">Activar / Desactivar Haptic Feedback of Dismissall Button</string>
 	<string name="fab_animation_style">Animación de Botón Flotante</string>	
 	<string name="recents_fab_lp">Activar pulsación larga en Botón de Limpiar Todo</string>	
-	<string name="recents_fab_lp_summary">Pulsación lara actualiza MemoryBar</string>	
+	<string name="recents_fab_lp_summary">Pulsación larga actualiza MemoryBar</string>	
 	<string name="recents_fab_lp_anim">Animaciones de pulsación larga del botón</string>
 	<string name="clear_animation_style">Animaciones de Limpiar Todo</string>	
 	<string name="button1">Por defecto</string>	
@@ -266,7 +266,7 @@
 	<string name="button29">Resurrection Lollipop</string>
 	
 	<string name="animation0">Rotación </string>	
-	<string name="animation1">Salir de Recents</string>	
+	<string name="animation1">Salir de Recientes</string>	
 	<string name="animation2">Salida Translúcida </string>	
 	<string name="animation3">Salida Cinta Translúcida</string>	
 	<string name="animation4">Salida Toast</string>	
@@ -294,15 +294,15 @@
 	<!--Notification Drawer-->
 	<string name="notification_drawer_title">Cortina de Notificaciones</string>
 	<string name="rr_qs_cat">Ajustes Rápidos Desplegables</string>
-	<string name="rr_qs">Quick Settings</string>
+	<string name="rr_qs">Ajustes Rápidos</string>
 	<string name="rr_brightness_cat">Barra de Brillo</string>
 	<string name="rr_qs_title">Panel de Ajustes Rápidos</string>
 	
 	
 	<!-- Quick settings quick pull down -->
 	<string name="status_bar_quick_qs_pulldown_title">Bajada rápida</string>
-	<string name="status_bar_quick_qs_pulldown_summary">Esquina derecha de la barra de estado muestra Quick Settings</string>
-	<string name="quick_pulldown_summary_always">Siempre mostrar Quick Settings con bajada ráìda</string>	
+	<string name="status_bar_quick_qs_pulldown_summary">Esquina derecha de la barra de estado muestra Ajustes Rápidos</string>
+	<string name="quick_pulldown_summary_always">Siempre mostrar Ajustes Rápidos con bajada ráìda</string>	
 	<string name="quick_pulldown_always">Siempre</string>	
 	
 	<!-- Quick settings brightness slider -->
@@ -349,7 +349,7 @@
 	<string name="clock_font_style_title">Fuente</string>
 	<string name="clock_font_normal">Normal</string>
 	<string name="clock_font_italic">Cursiva</string>
-	<string name="clock_font_bold">Negrit</string>
+	<string name="clock_font_bold">Negrita</string>
 	<string name="clock_font_bold_italic">Negrita Cursiva</string>
 	<string name="clock_font_light">Light</string>
 	<string name="clock_font_light_italic">Light Cursiva</string>
@@ -399,20 +399,20 @@
 	<string name="kernel_aduitor">Performance</string>
 	
 	<!-- Lock screen rotation -->
-	<string name="display_lockscreen_rotation_title">Lock screen</string>
+	<string name="display_lockscreen_rotation_title">Pantalla de Bloqueo</string>
 	<!-- Lock screen settings -->
 	<string name="rr_lockscreen_title">Pantalla de Bloqueo</string>
 	<string name="rr_ls_ui">UI de la Pantalla de Bloqueo</string>
-	<string name="rr_lockscreen_date">Date and Time</string>
+	<string name="rr_lockscreen_date">Fecha y Hora</string>
 	<string name="rr_ls_security_main">Seguridad en Pantalla de Bloqueo</string>
-	<string name="rr_lockscreen_notifications">LockScreen Notifications</string>
+	<string name="rr_lockscreen_notifications">Notificaciones en Pantalla de Bloqueo</string>
 	<string name="rr_ls_security">Seguridad</string>
-	<string name="rr_ls_gestures">Lockscreen Gestures</string>
+	<string name="rr_ls_gestures">Gestos en Pantalla de Bloqueo</string>
 	<string name="rr_ls_media">Media en Pantalla de Bloqueo</string>
 	<string name="rr_ls_gesures">Gestos en Pantalla de Bloqueo</string>
 	<string name="rr_ls_settings">Personalización</string>
 	<string name="rr_lockscreen_blur">LockScreen Blur</string>
-	<string name="rr_lockscreen_style">Styles</string>	
+	<string name="rr_lockscreen_style">Estilos</string>	
 	<string name="double_tap_ls">Double Tap Sleep LockScreen</string>
 	<string name="double_tap_ls_summary">Double tap lockscreen to put the device to sleep</string>	
 	
@@ -430,13 +430,13 @@
 	
 	<!-- Lockscreen wallpaper -->
 	<string name="lockscreen_wallpaper_title">Fondo de pantalla</string>
-	<string name="lockscreen_wallpaper_summary">Establecer fondo de pantalla.</string>
-	<string name="lockscreen_wallpaper_set_title">Set lock screen wallpaper</string>
-	<string name="lockscreen_wallpaper_clear_title">Clear lock screen wallpaper</string>
-	<string name="reset_lockscreen_wallpaper">Set to default</string>
-	<string name="lockscreen_options_title">Options</string>
-	<string name="lockscreen_wallpaper_summary_warning">Reboot Might Be needed For Changes To Take Effect</string>	
-	<string name="lockscreen_wallpaper_cat">Wallpaper</string>
+	<string name="lockscreen_wallpaper_summary">Establecer fondo de pantalla</string>
+	<string name="lockscreen_wallpaper_set_title">Establecer fondo de pantalla de bloqueo</string>
+	<string name="lockscreen_wallpaper_clear_title">Limpiar fondo de pantalla de bloqueo</string>
+	<string name="reset_lockscreen_wallpaper">Establecer valores por defecto</string>
+	<string name="lockscreen_options_title">Opciones</string>
+	<string name="lockscreen_wallpaper_summary_warning">Reiniciar será necesario para que los cambios tengan efecto</string>	
+	<string name="lockscreen_wallpaper_cat">Fondo de pantalla</string>
 	<string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
 	<string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
 	<string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
@@ -447,13 +447,13 @@
 	<string name="lockscreen_blur_radius">Blur effect intensity</string>
 	
 	<!-- CM Lockscreen shortcuts -->
-	<string name="lockscreen_targets_message">Bottom shortcuts</string>
-	<string name="lockscreen_targets_summary">Change the bottom corner shortcuts</string>
-	<string name="ok_string">Okay</string>
+	<string name="lockscreen_targets_message">Accesos directos inferiores</string>
+	<string name="lockscreen_targets_summary">Cambiar accesos directos inferiores</string>
+	<string name="ok_string">Ok</string>
 	
 	<!-- AOKP custom system animations -->
 	<string name="animation_title">Animaciones</string>  
-	<string name="system_animation_title">System animations</string>
+	<string name="system_animation_title">Animaciones del sistema</string>
 	<string name="activity_open_title">Activity open animation</string>
 	<string name="activity_close_title">Activity close animation</string>
 	<string name="task_open_title">Task open animation</string>
